@@ -23,4 +23,8 @@ public class Clase1 {
 	public int doble(){
 		return this.atributo1*2;
 	}
+	
+	public int triple(){
+		return this.doble()+this.atributo1;
+	}
 }
