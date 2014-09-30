@@ -2,6 +2,7 @@ package nuevo;
 
 public class clase1 {
 	private int atributo1;
+	private int atributo2;
 
 	public int getAtributo1() {
 		return atributo1;
