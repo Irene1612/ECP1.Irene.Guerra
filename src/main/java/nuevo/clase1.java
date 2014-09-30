@@ -15,4 +15,8 @@ public class clase1 {
 	public int sumar() {
 		return this.atributo1 + this.atributo2;
 	}
+	
+	public int cuadrado(){
+		return this.atributo1*this.atributo1;
+	}
 }
