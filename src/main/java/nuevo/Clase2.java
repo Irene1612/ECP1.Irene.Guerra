@@ -10,4 +10,8 @@ public class Clase2 {
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
 	}
+	
+	public String conGuion(){
+		return this.nombre + "-";
+	}
 }
