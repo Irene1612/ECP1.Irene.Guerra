@@ -2,6 +2,7 @@ package nuevo;
 
 public class Clase2 {
 	private String nombre;
+	private int numero;
 
 	public String getNombre() {
 		return nombre;
