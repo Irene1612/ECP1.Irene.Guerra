@@ -15,4 +15,12 @@ public class Clase2 {
 	public String conGuion(){
 		return this.nombre + "-";
 	}
+
+	public int getNumero() {
+		return numero;
+	}
+
+	public void setNumero(int numero) {
+		this.numero = numero;
+	}
 }
