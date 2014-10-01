@@ -3,6 +3,7 @@ package nuevo;
 public class Clase2 {
 	private String nombre;
 	private int numero;
+	private String apellido;
 
 	public String getNombre() {
 		return nombre;
